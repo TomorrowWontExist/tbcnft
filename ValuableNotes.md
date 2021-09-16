@@ -64,7 +64,7 @@ Add these to lines 33-34
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
 
-ABI Code goes into Contract folder, replace TBCNFTABI.json with yours (copy ABI from remix compile page)
+ABI Code goes into Contract folder, replace TBCNFTABI.json with yours (copy only the 0's part at the end of the ABI from remix compile page)
 
 Make ico file for Favicon and replace it in the Public folder, Also replace images 192x and 512x
 
